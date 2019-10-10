@@ -1,0 +1,12 @@
+/assets/themes/lab/images/logo/LOGO.png
+
+/assets/images/projects/multimodal-social-media.jpg
+
+/assets/images/projects/lipper.jpg
+
+/assets/images/projects/ai-healtcare.jpg
+
+/assets/images/projects/eventbuilder.jpg
+
+/assets/images/projects/code-switched-language.jpg
+
